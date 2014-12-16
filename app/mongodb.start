@@ -1,0 +1,1 @@
+sudo mongod --port 27018 --fork --pidfilepath /var/run/mongodb/mongod.pid --logpath /home/linxie/app/logs/mongo/mongod.log

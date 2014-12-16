@@ -1,0 +1,14 @@
+Tue Dec 16 15:02:56.039 [initandlisten] MongoDB starting : pid=9213 port=27018 dbpath=/data/db/ 64-bit host=elasticsearch-7827
+Tue Dec 16 15:02:56.039 [initandlisten] db version v2.4.9
+Tue Dec 16 15:02:56.039 [initandlisten] git version: nogitversion
+Tue Dec 16 15:02:56.039 [initandlisten] build info: Linux orlo 3.2.0-58-generic #88-Ubuntu SMP Tue Dec 3 17:37:58 UTC 2013 x86_64 BOOST_LIB_VERSION=1_54
+Tue Dec 16 15:02:56.039 [initandlisten] allocator: tcmalloc
+Tue Dec 16 15:02:56.039 [initandlisten] options: { fork: true, logpath: "/home/linxie/app/logs/mongo/mongod.log", pidfilepath: "/var/run/mongodb/mongod.pid", port: 27018 }
+Tue Dec 16 15:02:56.041 [initandlisten] journal dir=/data/db/journal
+Tue Dec 16 15:02:56.041 [initandlisten] recover : no journal files present, no recovery needed
+Tue Dec 16 15:02:56.089 [websvr] admin web console waiting for connections on port 28018
+Tue Dec 16 15:02:56.090 [initandlisten] waiting for connections on port 27018
+Tue Dec 16 15:03:23.397 [initandlisten] connection accepted from 127.0.0.1:41043 #1 (1 connection now open)
+Tue Dec 16 15:03:23.397 [conn1] end connection 127.0.0.1:41043 (0 connections now open)
+Tue Dec 16 15:03:35.848 [initandlisten] connection accepted from 127.0.0.1:41045 #2 (1 connection now open)
+Tue Dec 16 15:03:35.849 [conn2] end connection 127.0.0.1:41045 (0 connections now open)
